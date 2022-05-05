@@ -1,0 +1,36 @@
+label.error{
+	color:red;
+}
+
+.description-post{
+	height: 100px;
+	overflow: hidden;
+}
+
+.table-hover>tbody>tr:hover{
+	cursor: pointer;
+	opacity: 0.8;
+}
+
+.notRead{
+	background-color: #dce0e0 !important;
+}
+
+.fc-content{
+	text-align: center;
+}
+
+.fc-today{
+    background: #b7ebba !important;
+    border: none !important;
+    border-top: 1px solid #ddd !important;
+    font-weight: bold;
+}
+
+tr.nhap_detail{
+	cursor: pointer;
+}
+
+tr.active{
+	background-color: darkgray !important;
+}
